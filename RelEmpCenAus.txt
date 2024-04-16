@@ -1,0 +1,169 @@
+Título: RELACIÓN DE PUESTOS DE TRABAJO
+Autor: Aplicación Séneca, Consejería de Desarrollo Educativo y F.P., Junta de Andalucía
+Fecha de creación: 27/04/2023 - 20:15
+
+
+----------------------------------------+--------------+----------------------+----------------------------------------+---------------------+----------+----------+---------------+-----------+------
+Nombre                                  |DNI/ Pasaporte|Tipo personal         |Puesto trabajo                          |Horario personalizado|Fecha alta|Fecha baja|Horas iniciales|Total horas|Activo
+----------------------------------------+--------------+----------------------+----------------------------------------+---------------------+----------+----------+---------------+-----------+------
+Aguilera Rodríguez, Isabel              |47029355J     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |19/01/2023|30/06/2023|0:00           |11:00      |S     
+Aguilera Rodríguez, Isabel              |47029355J     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |11/12/2022|18/01/2023|0:00           |0:00       |N     
+Aguilera Rodríguez, Isabel              |47029355J     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |15/09/2022|10/12/2022|0:00           |9:00       |N     
+Alba Mayor, Rocío                       |30511931Q     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |22/02/2023|27/03/2023|0:00           |0:00       |N     
+Álvarez Gómez, Rosario                  |08915544P     |Docente Laboral       |Contr. Lab. Religión (Sec-Ere) 16 Horas |Si                   |01/09/2022|31/08/2023|0:00           |82:30      |S     
+Andrés Leal, Míriam                     |77455262W     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2022|          |0:00           |36:00      |S     
+Andreu Ibarra, Myriam                   |30836686B     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |23/01/2023|30/06/2023|0:00           |0:00       |S     
+Arman Martínez, Nerea                   |77349995Y     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |01/09/2022|30/06/2023|0:00           |6:15       |S     
+Barrios Alonso, África                  |51912211S     |Docente Funcionario   |Tecnología P.E.S.                       |Si                   |01/09/2022|          |0:00           |0:00       |S     
+Benítez Cedeño, Natalia                 |44590674E     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2017|          |0:00           |4:00       |S     
+Benítez Pereira, María Cinta            |08922573E     |Docente Laboral       |Contr. Lab.Evangelic. (Sec-Ere) 05 Horas|Si                   |01/09/2022|31/08/2023|0:00           |0:00       |S     
+Berlanga Mena, María Nuria              |75743031Y     |Docente Funcionario   |Pedagogía Terapeutica Eso               |Si                   |01/09/2005|          |0:00           |183:30     |S     
+Blasco Fernández, María Yolanda         |24228342G     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2003|          |0:00           |89:00      |S     
+Bonilla Pérez, María                    |74663933E     |Docente Funcionario   |Informática P.E.S.                      |Si                   |01/09/2010|          |0:00           |68:00      |S     
+Botija García, María del Carmen         |46687316F     |Docente Funcionario   |Filosofía P.E.S.                        |Si                   |30/11/2022|27/01/2023|0:00           |0:00       |N     
+Brito Silla, José Manuel                |52294297W     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2006|          |0:00           |28:00      |S     
+Cabrera López, Manuel                   |53656255S     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2022|31/08/2023|0:00           |58:00      |S     
+Camacho Castellano, Marina              |74727234G     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |01/09/2022|30/06/2023|0:00           |31:00      |S     
+Cano Cobos, María Isabel                |07986998H     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |01/09/2012|          |0:00           |6:00       |S     
+Carmona López, Pablo                    |06572131L     |Docente Funcionario   |Dibujo P.E.S.                           |Si                   |01/09/2022|30/06/2023|0:00           |32:00      |S     
+Carnerero Alonso, Marina                |44576737T     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2022|          |0:00           |69:00      |S     
+Carnerero Alonso, Marina                |75096690B     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2022|31/08/2023|0:00           |63:30      |S     
+Carrillo Navarro, Aurora                |75136159N     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |01/09/2022|30/06/2023|0:00           |33:30      |S     
+Castillo Pérez, Rut                     |30787489B     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |01/09/2019|          |0:00           |0:00       |S     
+Castillo Pérez, Rut                     |53699673D     |Docente Funcionario   |Pedagogía Terapeutica Eso               |Si                   |01/09/2022|30/06/2023|0:00           |45:00      |S     
+Cazalla Dorantes, Iván                  |25721366Y     |Docente Funcionario   |Biología y Geología P.E.S.              |Si                   |19/09/2022|01/05/2023|0:00           |13:00      |S     
+Cazalla Dorantes, Iván                  |25721366Y     |Docente Funcionario   |Biología y Geología P.E.S.              |No                   |02/05/2023|30/06/2023|0:00           |0:00       |N     
+Cazalla Dorantes, Iván                  |77455412Z     |Docente Funcionario   |Francés P.E.S.                          |Si                   |01/09/2009|          |0:00           |46:00      |S     
+Chica Infante, Paula                    |30458572V     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |01/10/1990|          |0:00           |1:00       |S     
+Concepción Moreno, María Mónica         |77452138Y     |Docente Funcionario   |Area Científico-Tecnolog. (Apoyo Covid) |Si                   |15/09/2022|30/06/2023|0:00           |6:00       |S     
+Concepción Moreno, María Mónica         |08919481N     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2022|31/08/2023|0:00           |18:00      |S     
+Cortejosa Ponce, Antonio                |28924916R     |Docente Funcionario   |Dibujo P.E.S.                           |Si                   |01/09/2022|30/06/2023|0:00           |40:00      |S     
+Cortejosa Ponce, Antonio                |25661407P     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2019|          |0:00           |31:00      |S     
+Cortés González, Abigail Alejandra      |48937339D     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2022|31/08/2023|0:00           |66:00      |S     
+De la Borbolla Muñoz, Marie-Pier        |75128842D     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2020|          |0:00           |7:30       |S     
+De la Gala Martín, Agustín              |45070008J     |Docente Funcionario   |Música P.E.S.                           |Si                   |01/09/2001|          |0:00           |53:00      |S     
+Del Campo Lavela, Rocío                 |42848833V     |Docente Funcionario   |Equipos Electrónicos P.T.F.P.           |Si                   |01/09/2021|          |0:00           |14:00      |S     
+Díaz Sarmiento, Rosario                 |75115004V     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2020|          |0:00           |30:00      |S     
+El Boukhary León, Silvia María          |74696158R     |Docente Funcionario   |Dibujo P.E.S.                           |Si                   |01/09/2022|31/08/2023|0:00           |354:00     |S     
+El Boukhary León, Silvia María          |08869002H     |Docente Funcionario   |Filosofía P.E.S.                        |Si                   |01/09/2022|31/08/2023|0:00           |233:00     |S     
+Escobar Martínez, Juan Jesús            |24263559P     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2022|31/08/2023|0:00           |0:00       |S     
+Escobar Martínez, Juan Jesús            |50602307F     |Docente Funcionario   |Filosofía P.E.S.                        |Si                   |01/09/2012|          |0:00           |22:00      |S     
+Espejo López, Pilar                     |43719588S     |No Docente Laboral    |Ordenanza                               |No                   |06/03/2023|31/08/2023|0:00           |21:00      |S     
+Expósito Rodríguez, Laura               |47539580Y     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |15/09/2022|16/10/2022|0:00           |0:00       |N     
+Fernández Pérez, Alicia                 |53151310N     |Docente Funcionario   |Sistemas Electrónicos P.E.S.            |Si                   |01/09/2003|          |0:00           |17:00      |S     
+Fernández Ríos, Setefilla               |77348976E     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2019|          |0:00           |6:00       |S     
+Formanti Lezama, Adrián                 |77336794F     |Docente Funcionario   |Tecnología P.E.S.                       |Si                   |15/09/2022|30/06/2023|0:00           |28:00      |S     
+Formanti Lezama, Adrián                 |33361615T     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/09/2022|30/06/2023|0:00           |20:45      |S     
+Fuentes Gómez, María Isabel             |26817202F     |Docente Laboral       |Contr. Lab. Religión (Sec-Ere) 11 Horas |Si                   |01/09/2022|31/08/2023|0:00           |199:00     |S     
+Gaona Tobaruela, Noelia                 |30957748R     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |15/09/2022|30/06/2023|0:00           |105:30     |S     
+García Doblado, David                   |80133984Y     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |01/09/2004|          |0:00           |13:00      |S     
+García Entrena, Juan Manuel             |76997333A     |Docente Funcionario   |Educación Física P.E.S.                 |Si                   |01/09/2019|          |0:00           |24:00      |S     
+García Martín, Arancha                  |78961479H     |Docente Funcionario   |Matemáticas P.E.S.                      |No                   |01/09/2004|05/09/2022|0:00           |0:00       |N     
+Garrido Dueñas, Rafael                  |45606554S     |Docente Funcionario   |Educación Física P.E.S.                 |Si                   |01/09/2022|30/06/2023|0:00           |19:30      |S     
+Gilabert Lozano, Alejandro              |25583669X     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2010|          |0:00           |38:00      |S     
+Gilabert Lozano, Alejandro              |78981279S     |Docente Funcionario   |Interculturalidad                       |Si                   |20/10/2022|31/08/2023|0:00           |4:30       |S     
+Gilabert Lozano, Alejandro              |31224956H     |No Docente Laboral    |Limpiador/a                             |No                   |01/09/2022|31/08/2023|0:00           |392:00     |S     
+Gilabert Lozano, Alejandro              |30546624W     |Docente Funcionario   |Dibujo P.E.S.                           |Si                   |08/02/2023|30/06/2023|0:00           |0:00       |S     
+Gómez De la Torre, MªCarmen             |76750157P     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/09/2022|30/06/2023|0:00           |33:30      |S     
+Gómez Fernández, Juan Manuel            |25605303R     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2022|30/06/2023|0:00           |0:00       |S     
+González Clemente, María Mónica         |03927426S     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |08/02/2023|30/06/2023|0:00           |0:00       |S     
+González Clemente, María Mónica         |53771268M     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2020|          |0:00           |539:00     |S     
+González Martínez, Asunción             |34865827N     |Docente Funcionario   |Dibujo P.E.S.                           |Si                   |01/09/2021|          |0:00           |50:00      |S     
+González Pérez, Dolores                 |26800485B     |Docente Funcionario   |Educación Física P.E.S.                 |Si                   |01/09/2010|          |0:00           |41:30      |S     
+González Simón, Denis Luis              |75006921B     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/10/1992|19/12/2022|0:00           |38:30      |N     
+González Simón, Denis Luis              |52555297K     |Docente Funcionario   |Formación y Orientación Laboral P.E.S.  |Si                   |01/09/2018|          |0:00           |25:30      |S     
+González Simón, Denis Luis              |75006921B     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |20/12/2022|19/12/2027|0:00           |1:00       |S     
+Guerrero Múgica, José Manuel            |23275278Z     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2022|30/06/2023|0:00           |84:00      |S     
+Guerrero Múgica, José Manuel            |26458859G     |Docente Funcionario   |Francés P.E.S.                          |No                   |15/09/1998|05/09/2022|0:00           |0:00       |N     
+Guillén Roldán, Soledad                 |29077348N     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/10/1992|          |0:00           |0:00       |S     
+Holgado Beaterio, Noelia                |52291572Z     |No Docente Laboral    |Ordenanza                               |No                   |01/09/2022|31/08/2023|0:00           |224:00     |S     
+Ichim Alvarado, Luca                    |08922178H     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2022|31/08/2023|0:00           |32:30      |S     
+Jiménez Aguilera, María Jessica         |X4645120V     |Docente Funcionario   |Area de Lengua y CC. Soc. (Apoyo Covid) |Si                   |15/09/2022|30/06/2023|0:00           |4:00       |S     
+Jiménez Franco, María del Carmen        |75377711H     |No Docente Laboral    |Ordenanza                               |No                   |01/09/2022|23/10/2022|0:00           |210:00     |N     
+Jiménez Montiel, María Belén            |50959274Z     |No Docente Laboral    |Limpiador/a                             |No                   |01/09/2022|31/08/2023|0:00           |0:00       |S     
+Jiménez Olmo, Mariana Carolina          |07961211Z     |Docente Funcionario   |Informática P.E.S.                      |Si                   |01/09/2022|30/06/2023|0:00           |50:00      |S     
+Jurado Olalla, Francisco Javier         |26466515R     |Docente Funcionario   |Sistemas y Aplic. Informáticos P.T.F.P. |Si                   |01/09/2003|          |0:00           |19:30      |S     
+Jurado Olalla, Francisco Javier         |08917479B     |No Docente Laboral    |Ordenanza                               |No                   |01/09/2022|31/08/2023|0:00           |112:00     |S     
+Jurado Olalla, Francisco Javier         |08906635T     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/10/1991|          |0:00           |25:00      |S     
+Jurado Olalla, Francisco Javier         |08922687K     |Docente Funcionario   |Música P.E.S.                           |Si                   |01/09/2004|          |0:00           |7:00       |S     
+Jurado Peña, Juan Carlos                |76876932F     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |24/10/2022|23/12/2022|0:00           |0:00       |N     
+Lagares Martín, Francisco Javier        |26012958G     |Docente Funcionario   |Educación Física P.E.S.                 |Si                   |01/09/2010|          |0:00           |14:30      |S     
+Lara Muñoz, Carolina                    |23258148L     |Docente Funcionario   |Dibujo P.E.S.                           |Si                   |15/09/2022|25/12/2022|0:00           |56:00      |N     
+Lara Muñoz, Carolina                    |03888739Z     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2012|          |0:00           |11:15      |S     
+Lara Muñoz, Carolina                    |44756577A     |Docente Funcionario   |Educación Física P.E.S.                 |Si                   |01/09/2016|          |0:00           |13:00      |S     
+Le Cam Pérez, Miguel Ángel              |25975666H     |Docente Funcionario   |Economía P.E.S.                         |Si                   |15/09/1997|          |0:00           |13:00      |S     
+León Sánchez, Manuel                    |25567484V     |No Docente Laboral    |Ordenanza                               |No                   |01/09/2022|31/08/2023|0:00           |105:00     |S     
+Lobato Aznar, Nerea                     |31841670X     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/10/1992|          |0:00           |70:30      |S     
+Lobato Bereginal, María Isabel          |32028489T     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/10/1992|          |0:00           |2:00       |S     
+Lobato Bereginal, María Isabel          |27347116R     |Docente Funcionario   |Física y Química P.E.S.                 |Si                   |01/09/2012|          |0:00           |44:00      |S     
+López Carmona, María Teresa             |26819714N     |Docente Funcionario   |Pedagogía Terapeutica Eso               |Si                   |01/09/2022|31/08/2023|0:00           |34:30      |S     
+López Porras, María del Mar             |12731426Y     |Docente Funcionario   |Tecnología P.E.S.                       |Si                   |01/09/2012|          |0:00           |0:00       |S     
+López Porras, María del Mar             |26480492V     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |15/09/2022|30/06/2023|0:00           |0:00       |S     
+López Ramírez, Marta                    |74826524A     |Docente Funcionario   |Francés P.E.S.                          |Si                   |01/09/2022|30/06/2023|0:00           |12:00      |S     
+Márquez Rosado, María Ángeles           |33385982X     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |26/10/2022|25/12/2022|0:00           |0:00       |N     
+Martín Martínez, Guillermo              |25609716K     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2022|31/08/2023|0:00           |88:30      |S     
+Martín Reyes, Verónica                  |25691649M     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |01/09/2022|30/06/2023|0:00           |0:00       |S     
+Martínez Cortijo, Nuria                 |08914265V     |Docente Funcionario   |Tecnología P.E.S.                       |Si                   |01/09/2006|          |0:00           |36:00      |S     
+Martínez Cortijo, Nuria                 |33347173W     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2022|30/06/2023|0:00           |0:00       |S     
+Martínez Fernández, Cristobalina        |75221555D     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |08/10/2022|30/06/2023|0:00           |0:00       |S     
+Martínez Fernández, Cristobalina        |77369848X     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2021|          |0:00           |12:30      |S     
+Martínez García, María Amparo           |44580305A     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |01/09/2022|30/06/2023|0:00           |5:15       |S     
+Martínez Heredia, Josu                  |53686714E     |Docente Funcionario   |Formación y Orientación Laboral P.E.S.  |Si                   |01/09/2022|30/06/2023|0:00           |88:30      |S     
+Maysounave Romero, Nieves               |26485849S     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2008|          |0:00           |42:00      |S     
+Mellado Paulete, Lorena                 |25931941Q     |Docente Funcionario   |Biología y Geología P.E.S.              |Si                   |03/04/2020|01/05/2023|0:00           |706:30     |S     
+Mendes Buades, Adolfo                   |79034537M     |Docente Funcionario   |Dibujo P.E.S.                           |Si                   |01/09/2022|30/06/2023|0:00           |14:00      |S     
+Morales Arroyo, María                   |53593134Y     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2022|31/08/2023|0:00           |0:00       |S     
+Moreno Salvador, José Manuel            |31736466P     |Docente Funcionario   |Economía P.E.S.                         |Si                   |01/09/2022|          |0:00           |30:00      |S     
+Morillo Monge, María                    |22723547F     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/10/1991|          |0:00           |0:00       |S     
+Morillo Sánchez, Ana María              |78039825C     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |05/10/2022|30/06/2023|0:00           |48:15      |S     
+Muñoz Muñoz, Manuel                     |77185129G     |Docente Funcionario   |Informática P.E.S.                      |Si                   |28/11/2022|30/06/2023|0:00           |0:00       |S     
+Navarro Sellés, Abraham                 |76368363Z     |Docente Funcionario   |Filosofía P.E.S.                        |Si                   |01/09/2014|          |0:00           |389:00     |S     
+Ortega Martagón, María de los Ángeles   |03118784F     |Docente Funcionario   |Orientación Educativa P.E.S.            |Si                   |01/09/2021|          |0:00           |4:30       |S     
+Ortiz Gómez, Laura                      |52296143P     |Docente Funcionario   |Francés P.E.S.                          |Si                   |01/09/2019|          |0:00           |127:00     |S     
+Ortiz Gómez, Laura                      |74901717D     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2001|          |0:00           |5:00       |S     
+Oviedo Jiménez, Alba                    |75897648V     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2022|          |0:00           |26:00      |S     
+Oviedo Jiménez, Alba                    |25326027Z     |Docente Funcionario   |Administración de Empresas P.E.S.       |Si                   |01/09/2022|30/06/2023|0:00           |7:15       |S     
+Pardo Sánchez, Gema                     |53397625C     |Docente Funcionario   |Informática P.E.S.                      |Si                   |19/09/2022|21/10/2022|0:00           |64:30      |N     
+Parrado Ramiro, Bella                   |74868422H     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2008|          |0:00           |0:00       |S     
+Pereira Bernal, Aida                    |07000661J     |No Docente Laboral    |Ordenanza                               |No                   |01/09/2022|31/08/2023|0:00           |98:00      |S     
+Pereira Bernal, Aida                    |53157143A     |Docente Funcionario   |Informática P.E.S.                      |Si                   |01/09/2022|30/06/2023|0:00           |20:00      |S     
+Polo García, Mará Ángeles               |26043643F     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2022|30/06/2023|0:00           |25:00      |S     
+Pozo Macías, Abraham                    |45598046V     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |31/10/2022|26/03/2023|0:00           |219:45     |N     
+Ramírez Martín, Francisco José          |27337182A     |Docente Funcionario   |Informática P.E.S.                      |Si                   |01/09/2013|          |0:00           |99:00      |S     
+Ramírez Ramos, José Francisco           |25734377E     |Docente Funcionario   |Area de Lengua y CC. Soc. (Apoyo Covid) |Si                   |15/09/2022|30/06/2023|0:00           |5:00       |S     
+Ramírez Ramos, José Francisco           |71891915X     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2021|          |0:00           |20:00      |S     
+Ramírez Ramos, José Francisco           |74726486S     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |10/10/2022|26/03/2023|0:00           |499:00     |N     
+Rando Moreno, Cristina                  |08916623Y     |No Docente Funcionario|Administrativo/a                        |No                   |01/09/2022|31/08/2023|0:00           |630:55     |S     
+Raya González, María Dolores            |31717730V     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2022|          |0:00           |0:00       |S     
+Raya González, María Dolores            |08929037T     |Docente Funcionario   |Sistemas y Aplic. Informáticos P.T.F.P. |Si                   |01/09/2008|          |0:00           |58:30      |S     
+Reyes Blanco, Mónica                    |29079614R     |Docente Funcionario   |Tecnología P.E.S.                       |Si                   |01/09/2022|30/06/2023|0:00           |69:30      |S     
+Rivera Fernández, María de Gracia       |76120779W     |Docente Funcionario   |Cultura Clásica P.E.S.                  |Si                   |01/09/2021|          |0:00           |2:00       |S     
+Rodríguez Camacho, Cristina             |74657046N     |Docente Funcionario   |Filosofía P.E.S.                        |Si                   |01/09/2019|          |0:00           |72:00      |S     
+Rodríguez Gavilán, Alba                 |77358020G     |Docente Funcionario   |Informática P.E.S.                      |Si                   |05/10/2022|30/06/2023|0:00           |7:00       |S     
+Rodríguez Silla, Juan Eugenio           |09058618E     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2021|          |0:00           |0:00       |S     
+Rodríguez Silla, Juan Eugenio           |53682231R     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2009|          |0:00           |5:15       |S     
+Rodríguez Silla, Juan Eugenio           |52520495H     |Docente Funcionario   |Biología y Geología P.E.S.              |Si                   |01/09/2022|30/06/2023|0:00           |29:00      |S     
+Rodríguez Soriano, Beatriz              |77452049D     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2018|          |0:00           |25:00      |S     
+Rodríguez Vigo, Carmen Belén            |25595687E     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2022|          |0:00           |62:00      |S     
+Rosa Conejo, José María                 |33397284L     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2011|          |0:00           |31:00      |S     
+Ruiz Jiménez Panadero, Julia            |74867075M     |Docente Funcionario   |Orientación Educativa P.E.S.            |Si                   |01/09/2008|          |0:00           |14:00      |S     
+Ruiz Ramírez, Raquel                    |27347150N     |Docente Funcionario   |Informática P.E.S.                      |Si                   |01/09/2013|          |0:00           |8:30       |S     
+Salmerón Haro, Laura                    |28614411L     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2016|          |0:00           |34:00      |S     
+Sánchez García, Marta                   |75111043N     |Docente Funcionario   |Sistemas y Aplic. Informáticos P.T.F.P. |Si                   |01/09/2012|          |0:00           |118:30     |S     
+Sánchez Mounard, María Rosario          |51910600Z     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |01/09/2022|30/06/2023|0:00           |4:00       |S     
+Sánchez Muñoz, Lorena                   |43401086V     |Docente Funcionario   |Matemáticas P.E.S.                      |Si                   |01/09/2022|30/06/2023|0:00           |14:00      |S     
+Sánchez Rodríguez, Inmaculada Concepción|08915602C     |No Docente Funcionario|Administrativo/a                        |No                   |01/09/2022|31/08/2023|0:00           |136:00     |S     
+Segura Gallego, Carlos David            |52571560T     |Docente Funcionario   |Biología y Geología P.E.S.              |Si                   |01/09/2005|          |0:00           |63:00      |S     
+Serrano Castillo, Rosario               |09057185S     |Docente Funcionario   |Economía P.E.S.                         |Si                   |01/09/2022|31/08/2023|0:00           |4:30       |S     
+Serrano Jiménez, María del Carmen       |15441401Y     |Docente Funcionario   |Filosofía P.E.S.                        |Si                   |15/09/2022|23/12/2022|0:00           |24:30      |N     
+Setien Lloréns, Irene                   |77455402G     |Docente Funcionario   |Geografía e Historia P.E.S.             |Si                   |01/09/2019|          |0:00           |93:30      |S     
+Severini Blázquez, Concepción           |26206754W     |Docente Funcionario   |Equipos Electrónicos P.T.F.P.           |Si                   |01/10/1989|          |0:00           |38:00      |S     
+Tejera Muñoz, Encarnación               |34012931W     |Docente Funcionario   |Proc. Gestión Administrativa P.T.F.P.   |Si                   |09/11/2022|26/03/2023|0:00           |0:00       |N     
+Torres Hernández, Lucía                 |74884118M     |Docente Funcionario   |Música P.E.S.                           |Si                   |01/09/2022|30/06/2023|0:00           |643:00     |S     
+Valdivia Guerrero, María Isabel         |80150807Q     |Docente Funcionario   |Física y Química P.E.S.                 |No                   |11/12/2022|18/01/2023|0:00           |0:00       |N     
+Valdivia Guerrero, María Isabel         |74930610Z     |Docente Funcionario   |Música P.E.S.                           |Si                   |01/02/2023|13/06/2023|0:00           |6:30       |S     
+Vergel Plaza, María Teresa              |45714123J     |Docente Funcionario   |Biología y Geología P.E.S.              |Si                   |01/09/2022|          |0:00           |20:00      |S     
+Vílchez Chacón, Erica Mariana           |48956848Z     |Docente Funcionario   |Inglés P.E.S.                           |Si                   |01/09/2016|          |0:00           |73:30      |S     
+Villegas Durán, Paula                   |70938789G     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |01/09/2022|          |0:00           |48:00      |S     
+Villegas Durán, Paula                   |26039231B     |Docente Funcionario   |Lengua Castellana y Literatura P.E.S.   |Si                   |15/09/2022|25/12/2022|0:00           |265:30     |N     
+Villodres Alcón, Vanesa María           |80149297R     |Docente Funcionario   |Informática P.E.S.                      |Si                   |01/09/2022|30/06/2023|0:00           |12:00      |S     
